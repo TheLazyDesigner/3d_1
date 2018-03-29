@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  body canvas.canvas-normal{
+    display: block;
+    max-width: 80%;
+  }
+}
